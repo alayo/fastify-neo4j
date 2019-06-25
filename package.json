@@ -1,0 +1,20 @@
+{
+  "name": "fastify-neo4j",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shawn Brinkman",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.5.0",
+    "fastify-plugin": "^1.6.0",
+    "neo4j-driver": "^1.7.5",
+    "tap": "^14.2.5"
+  },
+  "keywords": [
+    "fastify",
+    "neo4j",
+    "database",
+    "connection",
+    "graph"
+  ],
+}
